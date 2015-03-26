@@ -10,6 +10,7 @@ public class firstclass {
 		
 		System.out.println("I am Stefan Lazar");
 		
+		System.out.println("OO lab testing");
 
 		System.out.println("testing for OO lab");
 

@@ -18,6 +18,8 @@ public class firstclass {
 		
 		System.out.println("my second changes here");
 		
+		System.out.println("ClaraPolyu changes here");
+		
 		// Hello, here is a fake conflict.
 	
 	

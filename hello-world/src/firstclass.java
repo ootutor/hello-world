@@ -1,3 +1,5 @@
+import java.util.Calendar;
+
 public class firstclass {
 	public static void main(String[] argv)
 	{
@@ -7,6 +9,11 @@ public class firstclass {
 
 		
 		System.out.println("_(:3 ");
+		
+		System.out.println("my changes here");
+		
+		
+		System.out.println("my second changes here");
 		
 		// Hello, here is a fake conflict.
 	

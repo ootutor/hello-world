@@ -8,6 +8,8 @@ public class firstclass {
 		
 		System.out.println("I am Stefan Lazar");
 		
+		System.out.println("testing for OO lab");
+		
 		// Hello, here is a fake conflict.
 	
 	

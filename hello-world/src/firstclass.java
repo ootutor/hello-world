@@ -45,7 +45,8 @@ public class firstclass {
 	//aaaaa
 	
 	//kk
-		
+		System.out.println("ABCDE");
+	//abc	
 
 	}
 }

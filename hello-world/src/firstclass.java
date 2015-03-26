@@ -9,7 +9,7 @@ public class firstclass {
 	    System.out.println("test by Kit");
 
 		
-<<<<<<< HEAD
+//HEAD
 		System.out.println("I am Stefan Lazar");
 		System.out.println("I am who i am");
 =======

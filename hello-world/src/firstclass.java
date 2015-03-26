@@ -6,6 +6,8 @@ public class firstclass {
 		System.out.println("Hello!!!!");
 
 	    System.out.println("Good Bye");
+	    
+	    System.out.println("Good Bye");
 
 		
 		System.out.println("I am Stefan Lazar");

@@ -23,6 +23,8 @@ public class firstclass {
 		
 		System.out.println("my second changes here");
 		
+		System.out.println("My one and Only changes here");
+		
 		// Hello, here is a fake conflict.
 		
 		System.out.println("first class");
@@ -45,7 +47,7 @@ public class firstclass {
 	
 	//kk
 		System.out.println("ABCDE");
-		
+	//abc	
 
 	}
 }

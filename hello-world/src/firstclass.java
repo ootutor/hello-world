@@ -6,7 +6,7 @@ public class firstclass {
 	    System.out.println("Good Bye");
 
 		
-		System.out.println("I am Stefan Lazar");
+		System.out.println("_(:3");
 		
 		// Hello, here is a fake conflict.
 	

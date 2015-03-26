@@ -4,7 +4,7 @@ public class firstclass {
 	public static void main(String[] argv)
 	{	
 		//added by ssssssssssss111111111111
-		System.out.println("above all");
+		//System.out.println("above all");
 		System.out.println("Hello!!!!");
 
 	    System.out.println("Good Bye");

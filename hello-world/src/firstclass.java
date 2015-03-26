@@ -6,9 +6,7 @@ public class firstclass {
 		System.out.println("Hello!!!!");
 
 	    System.out.println("Good Bye");
-	    System.out.println("test by Kit");
 
-		
 
 		System.out.println("I am Stefan Lazar");
 		System.out.println("I am who i am");
@@ -32,8 +30,10 @@ public class firstclass {
 		
 		System.out.println("Testing");
 	
-	
+
+	//aaaaa
 		
+
 	}
 }
 

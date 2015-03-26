@@ -6,18 +6,20 @@ public class firstclass {
 		System.out.println("Hello!!!!");
 
 	    System.out.println("Good Bye");
-	    System.out.println("test by Kit");
 
-		
 //HEAD
+
+
+//branch 'master' of https://github.com/ootutor/hello-world
 		System.out.println("I am Stefan Lazar");
 		System.out.println("I am who i am");
-=======
-		System.out.println("_(:3 ");
->>>>>>> branch 'master' of https://github.com/ootutor/hello-world
-		
 
-		System.out.println("testing for OO lab");
+		System.out.println("_(:3 ");
+
+		System.out.println("OO lab testing");
+
+
+		System.out.println("testing for OO lab, haha");
 
 		System.out.println("my changes here");
 		
@@ -26,9 +28,17 @@ public class firstclass {
 		// Hello, here is a fake conflict.
 		
 		System.out.println("first class");
-	
-	
 		
+		System.out.println("Testing, ppppppppp");
+		System.out.println("Testing, dfsdfds");
+		System.out.println("Testing, dfsdfds");
+		System.out.println("Testing, ppppppppp");
+		System.out.println("Testing, dfsdfds");
+		System.out.println("Testing, dfsdfds");
+
+	//aaaaa
+		
+
 	}
 }
 

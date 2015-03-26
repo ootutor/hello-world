@@ -22,7 +22,7 @@ public class firstclass {
 		
 		System.out.println("my second changes here");
 		
-		System.out.println("ClaraPolyu changes here");
+		System.out.println("My Only changes here");
 		
 		// Hello, here is a fake conflict.
 		

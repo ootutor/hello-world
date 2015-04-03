@@ -55,7 +55,9 @@ public class firstclass {
 	
 	//kk
 		System.out.println("ABCDE");
-	//abc	
+	//abc
+		
+		System.out.println(" 1234");
 
 	}
 }

@@ -6,6 +6,8 @@ public class firstclass {
 //1234
 		System.out.println("hello world");
 		System.out.println("hello world !");
+		System.out.println("Raphael is god!");
+		
 	}
 }
 

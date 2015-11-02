@@ -3,8 +3,7 @@ public class firstclass {
 	{
 		System.out.println("Oh hello!");
 		System.out.println("OKIDOKI");
-
+		
 	}
 }
-
 
